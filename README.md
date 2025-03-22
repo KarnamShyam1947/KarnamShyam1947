@@ -2,10 +2,10 @@
 <h3 align="center">Hi 👋, I'm Karnam Shyam</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=1000&center=true&color=FFFFFF&width=800&lines=Aspiring+Full+Stack+Developer.;Solving+Real-World+Problems+%7C+Freelancer.;Developing+Smart+Solutions+for+the+Future+%7C+AI/ML+Enthusiast.;Implementing+Secure+CI%2FCD+Pipeline+|+DevSecOps.;Enhancing+security+and+privacy+buliding+DApps+%7C+Blockchain.)](https://karnamshyam1947.github.io/portfolio/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&color=BF91F3&width=800&lines=Aspiring+Full+Stack+Developer.;Solving+Real-World+Problems+%7C+Freelancer.;Developing+Smart+Solutions+for+the+Future+%7C+AI/ML+Enthusiast.;Implementing+Secure+CI%2FCD+Pipeline+|+DevSecOps.;Enhancing+security+and+privacy+buliding+DApps+%7C+Blockchain.)](https://karnamshyam1947.github.io/portfolio/)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KarnamShyam1947&color=03045e&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=KarnamShyam1947&color=03045e&style=for-the-badge"/>
 </div>
 
 <br>
@@ -101,6 +101,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karnamshyam1947&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="karnamshyam1947" />
+  <br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=KarnamShyam1947&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
