@@ -2,8 +2,11 @@
 <h3 align="center">Hi 👋, I'm Karnam Shyam</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=1000&center=true&color=FFFFFF&width=800&lines=Aspiring+Full+Stack+Developer.;Solving+Real-World+Problems+%7C+Freelancer.;Developing+Smart+Solutions+for+the+Future+%7C+AI/ML+Enthusiast.;Implementing+Secure+CI%2FCD+Pipeline+|+DevSecOps.;Enhancing+security+and+privacy+buliding+DApps+%7C+Blockchain.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=1000&center=true&color=FFFFFF&width=800&lines=Aspiring+Full+Stack+Developer.;Solving+Real-World+Problems+%7C+Freelancer.;Developing+Smart+Solutions+for+the+Future+%7C+AI/ML+Enthusiast.;Implementing+Secure+CI%2FCD+Pipeline+|+DevSecOps.;Enhancing+security+and+privacy+buliding+DApps+%7C+Blockchain.)](https://karnamshyam1947.github.io/portfolio/)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=KarnamShyam1947&color=03045e&style=flat-square"/>
+</div>
 
 <br>
 
@@ -95,10 +98,13 @@
 <br>
 
 # 📊 GitHub Stats:
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karnamshyam1947" alt="karnamshyam1947" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnamshyam1947&show_icons=true&locale=en&layout=compact" alt="karnamshyam1947" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karnamshyam1947&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="karnamshyam1947" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karnamshyam1947&show_icons=true&locale=en" alt="karnamshyam1947" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarnamShyam1947&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarnamShyam1947&theme=tokyonight)](https://karnamshyam1947.github.io/portfolio/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karnamshyam1947&" alt="karnamshyam1947" /></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=KarnamShyam1947&theme=tokyonight&row=1&column=8" alt="trophy" />
+</div>
